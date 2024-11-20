@@ -1,0 +1,3 @@
+/Users/bettyshin/Desktop/CWorkSpace/os_term_project/cmake-build-debug/CMakeFiles/os_term_project.dir
+/Users/bettyshin/Desktop/CWorkSpace/os_term_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bettyshin/Desktop/CWorkSpace/os_term_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

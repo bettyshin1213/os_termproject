@@ -1,0 +1,80 @@
+At time 1, process 35468 gets CPU time, remaining CPU-burst: 27
+Run Queue: 35469 35470 35471 35472 35473 35474 35475 35476 35477 
+Wait Queue: 
+
+At time 2, process 35469 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35470 35471 35472 35473 35474 35475 35476 35477 35469 
+Wait Queue: 
+
+At time 3, process 35470 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35471 35472 35473 35474 35475 35476 35477 35469 35470 
+Wait Queue: 
+
+At time 4, process 35471 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35472 35473 35474 35475 35476 35477 35469 35470 35471 
+Wait Queue: 
+
+At time 5, process 35472 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35473 35474 35475 35476 35477 35469 35470 35471 35472 
+Wait Queue: 
+
+At time 6, process 35473 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35474 35475 35476 35477 35469 35470 35471 35472 
+Wait Queue: 
+
+At time 7, process 35474 gets CPU time, remaining CPU-burst: 2
+Run Queue: 35475 35476 35477 35469 35470 35471 35472 
+Wait Queue: 35474 
+
+At time 8, process 35475 gets CPU time, remaining CPU-burst: 2
+Run Queue: 35476 35477 35469 35470 35471 35472 
+Wait Queue: 35474 
+
+At time 9, process 35476 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35477 35469 35470 35471 35472 35476 
+Wait Queue: 35474 
+
+At time 10, process 35477 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35469 35470 35471 35472 35476 35477 
+Wait Queue: 35474 
+
+At time 11, process 35469 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35470 35471 35472 35476 35477 35469 
+Wait Queue: 35474 
+
+At time 12, process 35470 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35471 35472 35476 35477 35469 
+Wait Queue: 35474 
+
+At time 13, process 35471 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35472 35476 35477 35469 35471 
+Wait Queue: 35474 
+
+At time 14, process 35472 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35476 35477 35469 35471 
+Wait Queue: 35474 
+
+At time 15, process 35476 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35477 35469 35471 35476 
+Wait Queue: 35474 
+
+At time 16, process 35477 gets CPU time, remaining CPU-burst: 2
+Run Queue: 35469 35471 35476 
+Wait Queue: 35474 35477 
+
+At time 17, process 35469 gets CPU time, remaining CPU-burst: 2
+Run Queue: 35471 35476 
+Wait Queue: 35474 35477 
+
+At time 18, process 35471 gets CPU time, remaining CPU-burst: 2
+Run Queue: 35476 
+Wait Queue: 35474 35477 
+
+At time 19, process 35476 gets CPU time, remaining CPU-burst: 8
+Run Queue: 35476 
+Wait Queue: 35474 35477 
+
+At time 20, process 35476 gets CPU time, remaining CPU-burst: 8
+Run Queue: 
+Wait Queue: 35474 35477 
+
